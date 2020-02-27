@@ -300,7 +300,7 @@ Text-shadow:水平位置(px) 垂直位置(px) 模糊距离(px) 阴影颜色(rgba
 
 **块级标签**
 
-如<h1> <p> <div> <ul> <ol> <li>等
+如 h1，p，div，ul，ol，li等
 
 块级元素特点：
 
@@ -311,7 +311,7 @@ Text-shadow:水平位置(px) 垂直位置(px) 模糊距离(px) 阴影颜色(rgba
 
 **行内元素**
 
-如<a> <strong><b><em><i><del><s><ins><u><span>等
+如 a，strong，b，em，i，del，s，ins，u，span等
 
 特点：
 
