@@ -83,9 +83,6 @@ React内部已经帮我们实现了虚拟DOM，初学者掌握如何调用即可
 
 - GitHub 地址：<https://github.com/facebook/react>  截至2019-02-08，React项目已经有 121k 的star。
 
-官网截图：
-
-20190208_1057.png
 
 上方截图中，有一个特性是“Learn Once, Write Anywhere”。这里的 “Anywhere” 其实指的是两个地方：一个是浏览器端，一个是服务器端。后者指的是，**React支持在服务器端渲染页面**。
 
