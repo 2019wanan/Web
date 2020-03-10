@@ -501,9 +501,9 @@ console.log(b); // 打印结果：666
 比如：
 
 ```javascript
-    result1 = 1 + 2 + '3'  // 33
+    result1 = 1 + 2 + '3'   // 33
 
-    result2 = '1' + 2 + 3; // 123
+    result2 = '1' + 2 + 3;  // 123
 ```
 
 3、任何值和NaN做运算的结果都是NaN。
