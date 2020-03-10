@@ -343,8 +343,9 @@ toFixed 的作用就是保留小数点后有效数字位的，比如
 ```javascript
 console.log(123.45.toFixed(1));		// 括号里是 1，保留一位小数，输出 123.5（四舍五 入）
 ```
-
-
+```javascript
+console.log(-123.45.toFixed(1)); 	// 和上面的一样，但是增加了负号 所以是负数
+```
 
 ## 转换为 Boolean
 
@@ -501,9 +502,9 @@ console.log(b); // 打印结果：666
 比如：
 
 ```javascript
-    result1 = 1 + 2 + '3'   // 33
+    result1 = 1 + 2 + '3';   // 33
 
-    result2 = '1' + 2 + 3;  // 123
+    result2 = '1' + 2 + 3;   // 123
 ```
 
 3、任何值和NaN做运算的结果都是NaN。
